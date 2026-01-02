@@ -31,7 +31,7 @@ export const managers = [
       "name": "Cory Schlatter",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Canyon Lake, CA", // (optional)
-      "bio": "<p style=\"text-align: center\">Raised in the OC currently residing in Canyon Lake. Proud owner of 18 successful fantasy teams. 2x cat dad. Im here to fuck shit up</p>\",<p style=\"text-align: center\">",
+      "bio": "<p style=\"text-align: center\">Raised in the OC currently residing in Canyon Lake. Proud owner of 18 successful fantasy teams. 2x cat dad. Im here to fuck shit up</p>",
       "photo": "/managers/Cory.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "nyg", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
