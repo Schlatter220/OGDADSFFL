@@ -96,7 +96,7 @@ export const managers = [
       "name": "Mike Alati",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Lake Forest, CA", // (optional)
-      "bio": "<p style=\"text-align: center\">I dont know what a biography is</p>",
+      "bio": "<p style=\"text-align: center\">Founding member and Attorney General of the OG DADS FFL. Catholic. Soon to be father. Patriot. Nationalist. Competitor. Highest COD ranked peak: Crimson in MW2 2022. Been in the mud carrying the boys ever since.</p>",
       "photo": "/managers/Mike.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -111,7 +111,7 @@ export const managers = [
       //"rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
       "philosophy": "<p style=\"text-align: center\">Win the draft. Win the trades</p>", // (optional)
       "tradingScale": 7, // 1 - 10 (optional)
-      "preferredContact": "Carrier Pigeon",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+      "preferredContact": "Discord",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
    {
       "Roster": 5,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
